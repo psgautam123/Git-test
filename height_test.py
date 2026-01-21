@@ -6,5 +6,7 @@ if height >= 64:
 else:
     print("You are shorter than the average!")
 
- 
-    
+print("Thanks for using the height tester!")
+# and tells them if they are taller or shorter than the average height of 64 inches.
+print("Goodbye!")
+
